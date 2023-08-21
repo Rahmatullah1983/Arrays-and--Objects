@@ -32,7 +32,7 @@ const checkMarks = students.every(function(student){
 })
 console.log(checkMarks);
 
-console.log(goodStudents);
+
 const checkMarkss = students.some(function(student){
     return student.marks >80;
 })
