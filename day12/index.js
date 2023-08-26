@@ -14,7 +14,7 @@ const students =[
     {name: "Zahid", marks:75 },
 ]
 const movies =[
-    "pushpa","BubliDon","Shahanshah",
+    "pushpa","BubliDon","Shahanshah","Bublibhan"
 ]
 const marks =[15, 30, 55, 10, 5 ,65]
 //turnary Operator
