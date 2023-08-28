@@ -1,4 +1,4 @@
-/*const person = {
+const person = {
     firstName: "Rahmatullah",
     lastName: " Bugti",
     getName(){
@@ -13,7 +13,7 @@ function regiterUser(country, lang){
 //bind
 let register =regiterUser.bind(person);
 register("Pakistan", " Urdu");
-*/
+
 const user={
 
 }
